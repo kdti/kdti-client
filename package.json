@@ -61,7 +61,7 @@
     "jest": "^24.1.0",
     "json-server": "^0.15.1",
     "lint-staged": "^8.2.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "prettier": "^1.16.4",
     "sass-loader": "^8.0.0",
     "serverless-domain-manager": "^3.3.0",
